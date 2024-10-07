@@ -5,9 +5,10 @@
 Full-Stack Web Programmer and Founder of SpecializedSoft Agency \[Web Software Development and Optimization Services. Specialists with +10 Years Experience\]
 
 ![header GitHub](github-header-image.png)
-To have more information about my career and skills, you can review my LinkedIn profile, there you can find everything you need to know about me
 
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/jackziel-sumoza-6419241b4/) <!-- ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)  -->
+
+To have more information about my career and skills, you can review my LinkedIn profile, there you can find everything you need to know about me
 
 ## Skills
 
