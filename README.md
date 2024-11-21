@@ -65,6 +65,8 @@ Si deseas que colaboremos envíame un mensaje a mi [LinkedIn](https://www.linked
 
 ## Books (repositorio)
 
+Únete a nuestra comunidad de programadores. Descubre una colección de libros pensados para ayudarte a crecer como desarrollador. ¡Forma parte de un espacio donde compartir conocimientos y resolver dudas!
+
 <a href="https://github.com/Jackziel-Sumoza/Git"><img src="./public/GIT EN OPEN SOURCE.png" alt="Libro de Git" style="width: 300px"></a>
 
 ## Métricas
