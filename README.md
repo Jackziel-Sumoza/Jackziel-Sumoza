@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackziel-Sumoza&layout=compact&&bg_color=00000000)
 
-Soy un desarrollador de web autodidacta con 4 años de experiencia, además de ser el fundador y CEO de [**SpecializedSoft Agency**](https://www.linkedin.com/company/specializedsoft-agency).
+Soy un desarrollador web autodidacta con 4 años de experiencia, además de ser el fundador y CEO de [**SpecializedSoft Agency**](https://www.linkedin.com/company/specializedsoft-agency).
 
 Actualmente estoy liderando el desarrollo de **World Window** (una ventana al mundo; el nombre aún no es fijo), será una plataforma de e-commerce revolucionaria; comencé a programar solo para desarrollar esta plataforma, por ahí tienes una idea de lo que se viene.
 
