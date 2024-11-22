@@ -9,15 +9,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackziel-Sumoza&layout=compact&&bg_color=00000000)
 
-Soy un desarrollador web autodidacta con 4 años de experiencia, además de ser el fundador y CEO de [**SpecializedSoft Agency**](https://www.linkedin.com/company/specializedsoft-agency).
+Soy un desarrollador web autodidacta con 4 años de experiencia y también soy el fundador de [**SpecializedSoft Agency**](https://www.linkedin.com/company/specializedsoft-agency).
 
-Actualmente estoy liderando el desarrollo de **World Window** (una ventana al mundo; el nombre aún no es fijo), será una plataforma de e-commerce revolucionaria; comencé a programar solo para desarrollar esta plataforma, por ahí tienes una idea de lo que se viene.
+Actualmente estoy liderando el desarrollo de **World Window** (una ventana al mundo), está plataforma será una e-commerce revolucionaria en el sector de comercio online y venta de servicios; la idea es diferente, ya que no está enfocada al consumidor final, sino al prestatario de servicios. Comencé a programar solo para desarrollar esta plataforma, por ahí tienes una idea de lo que se viene.
 
-He trabajado en proyectos de diversa índole, desde el desarrollo de sitios web estáticos hasta la creación de aplicaciones web complejas, con las que he mejorado mis habilidades y aprendido más tecnologías. Mi enfoque se basa en resolver problemas, independientemente de su dificultad.
+He trabajado en proyectos de diversa índole, desde el desarrollo de sitios web estáticos hasta la creación de aplicaciones web complejas con las que he mejorado mis habilidades y aprendido más tecnologías importantes. Mi enfoque se basa en la resolución de problemas, independientemente de su dificultad.
 
 Además de mis habilidades técnicas, soy un gran comunicador y colaborador. Me encanta trabajar en equipo y aprender de otros desarrolladores.
 
-Si deseas que colaboremos envíame un mensaje a mi [LinkedIn](https://www.linkedin.com/in/jackziel-sumoza), estaré feliz de saber que te tomaste el tiempo de revisar mi perfil.
+Si deseas que colaboremos envíame un mensaje a mi [LinkedIn](https://www.linkedin.com/in/jackziel-sumoza), estaré feliz de colaborar contigo.
 
 <div style="text-align: center;">
 
